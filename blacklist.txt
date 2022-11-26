@@ -1,1 +1,11 @@
  analyticsengine.s3.amazonaws.com
+ affiliationjs.c3.amazonaws.com
+ advertising-api-eu.amazon.com
+ amazonaax.com
+ cdn.luckyorange.com
+ w1.luckyorane.com
+ widgets.pinterest.com
+ d.reddit.com
+ appmetrica.yandex.com
+ samsung-com.112.2o7.net
+ 
