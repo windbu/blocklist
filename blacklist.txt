@@ -8,4 +8,5 @@
  d.reddit.com
  appmetrica.yandex.com
  samsung-com.112.2o7.net
+ open.oneplus.net
  
