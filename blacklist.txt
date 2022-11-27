@@ -71,4 +71,4 @@
  com.google.firebase.firebase_ads
  affiliationjs.s3.amazonaws.com
  w1.luckyorange.com
- 
+ fonts.gstatic.com
