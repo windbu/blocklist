@@ -72,3 +72,7 @@
  affiliationjs.s3.amazonaws.com
  w1.luckyorange.com
  fonts.gstatic.com
+ pagead2.googlesyndication.com
+ adservice.google.com
+ browser.sentry-cdn.com
+ ads.facebook.com
