@@ -69,3 +69,6 @@
  com.google.unity.ads
  com.google.android.gms.admob
  com.google.firebase.firebase_ads
+ affiliationjs.s3.amazonaws.com
+ w1.luckyorange.com
+ 
