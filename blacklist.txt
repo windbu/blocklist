@@ -76,3 +76,29 @@
  adservice.google.com
  browser.sentry-cdn.com
  ads.facebook.com
+ d1s31zyz7dcc2d.cloudfront.net
+ amzdigital-a.akamaihd.net
+ amzdigitaldownloads.edgesuite.net
+ softwareupdates.amazon.com
+ updates.amazon.com
+ arcus-uswest.amazon.com
+ arcus-useast.amazon.com
+ com.amazon.legalsettings
+ com.amazon.paladin
+ com.amazon.dee.app
+ arcus-uswest.amazon.com
+ images-na.ssl-images-amazon.com
+ com.amazon.kindle.unifiedSearch
+ com.amazon.venezia
+ msh.amazon.co.uk
+ com.amazon.dee.app
+ com.amazon.imp
+ com.amazon.kindle.cms
+ com.amazon.photos
+ api.amazon.com
+ mads.amazon-adsystem.com
+ kindle-time.amazon.com
+ device-metrics-us-2.amazon.com
+ spectrum.s3.amazonaws.com # wifi maybe broken because of this
+ amzdigital-a.akamaihd.net
+ amzdigitaldownloads.edgesuite.net
