@@ -77,14 +77,21 @@
  browser.sentry-cdn.com
  ads.facebook.com
  d1s31zyz7dcc2d.cloudfront.net
+ 
+ # [UPDATES_REQUIRED]
  amzdigital-a.akamaihd.net
  amzdigitaldownloads.edgesuite.net
- softwareupdates.amazon.com
+ 
+ # [UPDATES_OPTIONAL]
+ softwareupdates.amazon.com # SOFTWAREUPDATES
  updates.amazon.com
+ 
  arcus-uswest.amazon.com
  arcus-useast.amazon.com
  com.amazon.legalsettings
  com.amazon.paladin
+ 
+ # [QUESTIONABLE]
  com.amazon.dee.app
  arcus-uswest.amazon.com
  images-na.ssl-images-amazon.com
@@ -102,3 +109,5 @@
  spectrum.s3.amazonaws.com # wifi maybe broken because of this
  amzdigital-a.akamaihd.net
  amzdigitaldownloads.edgesuite.net
+ 
+ com.bugsnag
