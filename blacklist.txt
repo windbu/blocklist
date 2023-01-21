@@ -76,13 +76,7 @@ pagead2.googlesyndication.com
 adservice.google.com
 browser.sentry-cdn.com
 ads.facebook.com
-127.0.0.1 d1s31zyz7dcc2d.cloudfront.net
-127.0.0.1 amzdigital-a.akamaihd.net
-127.0.0.1 amzdigitaldownloads.edgesuite.net
-127.0.0.1 softwareupdates.amazon.com
-127.0.0.1 updates.amazon.com
-127.0.0.1 arcus-uswest.amazon.com
-127.0.0.1 arcus-useast.amazon.com
+
 
 # Amazon Fire (HD 8) Blocklist (V.1.0)
 #
@@ -95,42 +89,45 @@ ads.facebook.com
 # Credits:
 # https://forum.xda-developers.com/amazon-fire/general/how-to-block-updates-via-router-t3640267
 # https://forum.xda-developers.com/hd8-hd10/general/pi-hole-blocking-amazon-activity-t3726358
- 
-127.0.0.1 localhost
-::1 localhost
 
 # [GENERAL]
-127.0.0.1 com.amazon.legalsettings
-127.0.0.1 com.amazon.paladin
-127.0.0.1 com.amazon.dee.app
-127.0.0.1 arcus-uswest.amazon.com
+com.amazon.legalsettings
+com.amazon.paladin
+com.amazon.dee.app
+arcus-uswest.amazon.com
 
 # [IMAGES]
-127.0.0.1 images-na.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 
 # [UNIFIED SEARCH]
-127.0.0.1 com.amazon.kindle.unifiedSearch
-127.0.0.1 com.amazon.venezia
-127.0.0.1 msh.amazon.co.uk
+com.amazon.kindle.unifiedSearch
+com.amazon.venezia
+msh.amazon.co.uk
 
 # [QUESTIONABLE]
-127.0.0.1 com.amazon.dee.app
-127.0.0.1 com.amazon.imp
-127.0.0.1 com.amazon.kindle.cms
-127.0.0.1 com.amazon.photos
-127.0.0.1 api.amazon.com
-127.0.0.1 mads.amazon-adsystem.com
-127.0.0.1 kindle-time.amazon.com
-127.0.0.1 device-metrics-us-2.amazon.com
-127.0.0.1 spectrum.s3.amazonaws.com # wifi maybe broken because of this
+d1s31zyz7dcc2d.cloudfront.net
+amzdigital-a.akamaihd.net
+amzdigitaldownloads.edgesuite.net
+arcus-uswest.amazon.com
+arcus-useast.amazon.com
+unagi-na.amazon.com
+com.amazon.dee.app
+com.amazon.imp
+com.amazon.kindle.cms
+com.amazon.photos
+api.amazon.com
+mads.amazon-adsystem.com
+kindle-time.amazon.com
+device-metrics-us-2.amazon.com
+spectrum.s3.amazonaws.com # wifi maybe broken because of this
 
 # [UPDATES_REQUIRED]
-127.0.0.1 amzdigital-a.akamaihd.net
-127.0.0.1 amzdigitaldownloads.edgesuite.net
+amzdigital-a.akamaihd.net
+amzdigitaldownloads.edgesuite.net
 
 # [UPDATES_OPTIONAL]
-127.0.0.1 softwareupdates.amazon.com
-127.0.0.1 updates.amazon.com
+softwareupdates.amazon.com
+updates.amazon.com
  
 # [NETFLIX]
 com.bugsnag
