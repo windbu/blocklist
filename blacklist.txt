@@ -102,7 +102,6 @@
  com.amazon.imp
  com.amazon.kindle.cms
  com.amazon.photos
- api.amazon.com
  mads.amazon-adsystem.com
  kindle-time.amazon.com
  device-metrics-us-2.amazon.com
