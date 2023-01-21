@@ -1,111 +1,136 @@
- analyticsengine.s3.amazonaws.com
- affiliationjs.c3.amazonaws.com
- advertising-api-eu.amazon.com
- amazonaax.com
- cdn.luckyorange.com
- w1.luckyorane.com
- widgets.pinterest.com
- d.reddit.com
- appmetrica.yandex.com
- samsung-com.112.2o7.net
- open.oneplus.net
- com.appsflyer
- try.crashlytics.com
- get.fabric.io
- io.fabric
- com.crashlytics
- com.google.firebase.crashlytics
- com.google.firebase.crash
- io.invertase.firebase.crashlytics
- crashlytics.com
- com.google.android.gms.measurement
- com.google.firebase.firebase_analytics
- com.giphy.sdk.analytics
- com.giphy.sdk.tracking
- org.altbeacon.beacon
- com.altbeacon.beacon
- org.altbeacon.bluetooth
- com.google.android.apps.analytics
- com.google.android.gms.analytics
- com.google.analytics
- com.google.android.gms.measurement
- com.google.tagmanager
- com.google.android.gms.tagmanager
- com.salesforce.marketingcloud
- com.snowplowanalytics
- com.acuant.acuantcamera
- com.huawei.hms.analytics
- com.huawei.hms.location
- com.huawei.hms.plugin.analytics
- com.huawei.hms.plugin.ads
- com.huawei.updatesdk
- com.huawei.agconnect
- com.huawei.hms.support.api.push
- com.huawei.hms.flutter.analytics
- com.microsoft.appcenter.analytics
- com.microsoft.azure.mobile.analytics
- com.microsoft.appcenter.crashes
- com.snowplowanalytics
- com.adjust.sdk
- com.adjust.android.sdk
- com.facebook.appevents
- com.facebook.marketing
- com.facebook.CampaignTrackingReceiver
- com.facebook.login
- com.facebook.share
- com.google.firebase.firebase_analytics
- com.instabug
- com.mapbox.mapboxsdk.module.telemetry
- com.mapbox.mapboxsdk.maps.TelemetryDefinition
- com.mapbox.android.telemetry
- com.onesignal
- com.google.ads
- com.google.android.gms.ads.AdView
- com.google.android.gms.ads.AdActivity
- com.google.android.gms.ads.AdRequest
- com.google.android.gms.ads.mediation
- com.google.android.gms.ads.doubleclick
- com.google.android.ads
- com.google.unity.ads
- com.google.android.gms.admob
- com.google.firebase.firebase_ads
- affiliationjs.s3.amazonaws.com
- w1.luckyorange.com
- fonts.gstatic.com
- pagead2.googlesyndication.com
- adservice.google.com
- browser.sentry-cdn.com
- ads.facebook.com
- d1s31zyz7dcc2d.cloudfront.net
+analyticsengine.s3.amazonaws.com
+affiliationjs.c3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+cdn.luckyorange.com
+w1.luckyorane.com
+widgets.pinterest.com
+d.reddit.com
+appmetrica.yandex.com
+samsung-com.112.2o7.net
+open.oneplus.net
+com.appsflyer
+try.crashlytics.com
+get.fabric.io
+io.fabric
+com.crashlytics
+com.google.firebase.crashlytics
+com.google.firebase.crash
+io.invertase.firebase.crashlytics
+crashlytics.com
+com.google.android.gms.measurement
+com.google.firebase.firebase_analytics
+com.giphy.sdk.analytics
+com.giphy.sdk.tracking
+org.altbeacon.beacon
+com.altbeacon.beacon
+org.altbeacon.bluetooth
+com.google.android.apps.analytics
+com.google.android.gms.analytics
+com.google.analytics
+com.google.android.gms.measurement
+com.google.tagmanager
+com.google.android.gms.tagmanager
+com.salesforce.marketingcloud
+com.snowplowanalytics
+com.acuant.acuantcamera
+com.huawei.hms.analytics
+com.huawei.hms.location
+com.huawei.hms.plugin.analytics
+com.huawei.hms.plugin.ads
+com.huawei.updatesdk
+com.huawei.agconnect
+com.huawei.hms.support.api.push
+com.huawei.hms.flutter.analytics
+com.microsoft.appcenter.analytics
+com.microsoft.azure.mobile.analytics
+com.microsoft.appcenter.crashes
+com.snowplowanalytics
+com.adjust.sdk
+com.adjust.android.sdk
+com.facebook.appevents
+com.facebook.marketing
+com.facebook.CampaignTrackingReceiver
+com.facebook.login
+com.facebook.share
+com.google.firebase.firebase_analytics
+com.instabug
+com.mapbox.mapboxsdk.module.telemetry
+com.mapbox.mapboxsdk.maps.TelemetryDefinition
+com.mapbox.android.telemetry
+com.onesignal
+com.google.ads
+com.google.android.gms.ads.AdView
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.AdRequest
+com.google.android.gms.ads.mediation
+com.google.android.gms.ads.doubleclick
+com.google.android.ads
+com.google.unity.ads
+com.google.android.gms.admob
+com.google.firebase.firebase_ads
+affiliationjs.s3.amazonaws.com
+w1.luckyorange.com
+fonts.gstatic.com
+pagead2.googlesyndication.com
+adservice.google.com
+browser.sentry-cdn.com
+ads.facebook.com
+127.0.0.1 d1s31zyz7dcc2d.cloudfront.net
+127.0.0.1 amzdigital-a.akamaihd.net
+127.0.0.1 amzdigitaldownloads.edgesuite.net
+127.0.0.1 softwareupdates.amazon.com
+127.0.0.1 updates.amazon.com
+127.0.0.1 arcus-uswest.amazon.com
+127.0.0.1 arcus-useast.amazon.com
+
+# Amazon Fire (HD 8) Blocklist (V.1.0)
+#
+# Constribute:
+# please make a comment under this gist and I'll add it after checking to this list.
+#
+# Constributions by:
+# Luro02
+#
+# Credits:
+# https://forum.xda-developers.com/amazon-fire/general/how-to-block-updates-via-router-t3640267
+# https://forum.xda-developers.com/hd8-hd10/general/pi-hole-blocking-amazon-activity-t3726358
  
- # [UPDATES_REQUIRED]
- amzdigital-a.akamaihd.net
- amzdigitaldownloads.edgesuite.net
+127.0.0.1 localhost
+::1 localhost
+
+# [GENERAL]
+127.0.0.1 com.amazon.legalsettings
+127.0.0.1 com.amazon.paladin
+127.0.0.1 com.amazon.dee.app
+127.0.0.1 arcus-uswest.amazon.com
+
+# [IMAGES]
+127.0.0.1 images-na.ssl-images-amazon.com
+
+# [UNIFIED SEARCH]
+127.0.0.1 com.amazon.kindle.unifiedSearch
+127.0.0.1 com.amazon.venezia
+127.0.0.1 msh.amazon.co.uk
+
+# [QUESTIONABLE]
+127.0.0.1 com.amazon.dee.app
+127.0.0.1 com.amazon.imp
+127.0.0.1 com.amazon.kindle.cms
+127.0.0.1 com.amazon.photos
+127.0.0.1 api.amazon.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 kindle-time.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 spectrum.s3.amazonaws.com # wifi maybe broken because of this
+
+# [UPDATES_REQUIRED]
+127.0.0.1 amzdigital-a.akamaihd.net
+127.0.0.1 amzdigitaldownloads.edgesuite.net
+
+# [UPDATES_OPTIONAL]
+127.0.0.1 softwareupdates.amazon.com
+127.0.0.1 updates.amazon.com
  
- # [UPDATES_OPTIONAL]
- softwareupdates.amazon.com # SOFTWAREUPDATES
- updates.amazon.com
- 
- arcus-uswest.amazon.com
- arcus-useast.amazon.com
- com.amazon.legalsettings
- com.amazon.paladin
- 
- # [QUESTIONABLE]
- arcus-uswest.amazon.com
- images-na.ssl-images-amazon.com
- com.amazon.kindle.unifiedSearch
- com.amazon.venezia
- msh.amazon.co.uk
- com.amazon.imp
- com.amazon.kindle.cms
- com.amazon.photos
- mads.amazon-adsystem.com
- kindle-time.amazon.com
- device-metrics-us-2.amazon.com
- spectrum.s3.amazonaws.com # wifi maybe broken because of this
- amzdigital-a.akamaihd.net
- amzdigitaldownloads.edgesuite.net
- 
- # [NETFLIX]
- com.bugsnag
+# [NETFLIX]
+com.bugsnag
