@@ -110,7 +110,6 @@ amzdigital-a.akamaihd.net
 amzdigitaldownloads.edgesuite.net
 arcus-uswest.amazon.com
 arcus-useast.amazon.com
-unagi-na.amazon.com
 com.amazon.dee.app
 com.amazon.imp
 com.amazon.kindle.cms
