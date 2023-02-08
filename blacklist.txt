@@ -76,6 +76,45 @@ pagead2.googlesyndication.com
 adservice.google.com
 browser.sentry-cdn.com
 ads.facebook.com
+com.acuant.acuantcamera
+com.huawei.hms.analytics
+com.huawei.hms.location
+com.huawei.hms.plugin.analytics
+com.huawei.hms.plugin.ads
+com.huawei.updatesdk
+com.huawei.agconnect
+com.huawei.hms.support.api.push
+com.huawei.hms.flutter.analytics
+com.microsoft.appcenter.analytics
+com.microsoft.azure.mobile.analytics
+com.microsoft.appcenter.crashes
+net.hockeyapp
+
+# N26 App Tracker https://www.kuketz-blog.de/android-ios-sicheres-mobile-banking-am-smartphone/
+com.adjust.sdk
+com.adjust.android.sdk
+org.altbeacon.beacon
+com.altbeacon.beacon
+org.altbeacon.bluetooth
+io.branch
+com.usebutton.sdk
+com.google.ads
+com.google.android.gms.ads.AdView
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.AdRequest
+com.google.android.gms.ads.mediation
+com.google.android.gms.ads.doubleclick
+com.google.android.ads
+com.google.unity.ads
+com.google.android.gms.admob
+com.google.firebase.firebase_ads
+com.google.tagmanager
+com.google.android.gms.tagmanager
+com.salesforce.marketingcloud
+com.snowplowanalytics
+com.giphy.sdk.analytics
+com.giphy.sdk.tracking
+com.appsflyer
 
 
 # Amazon Fire (HD 8) Blocklist (V.1.0)
