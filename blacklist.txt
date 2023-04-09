@@ -115,6 +115,21 @@ com.snowplowanalytics
 com.giphy.sdk.analytics
 com.giphy.sdk.tracking
 com.appsflyer
+analytics.s3.amazonaws.com
+api.luckyorange.com
+fwtracks.freshmarketer.com
+ads-api.tiktok
+business-api.tiktok.com.com
+log.byteoversea.com
+udcm.yahoo.com
+adtech.yahooinc.com
+appmetrica.yandex.ru
+metrika.yandex.ru
+offerwall.yandex.net
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+ck.ads.oppomobile.com
+grs.hicloud.com
 
 
 # Amazon Fire (HD 8) Blocklist (V.1.0)
