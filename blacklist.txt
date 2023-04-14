@@ -131,6 +131,34 @@ bdapi-in-ads.realmemobile.com
 ck.ads.oppomobile.com
 grs.hicloud.com
 
+# Xiaomi Home App - Mi Home
+com.amap.api
+com.mixpanel
+com.tencent.stat
+com.tencent.wxop.stat
+decide.mixpanel.com
+api.mixpanel.com
+mixpanel.com
+switchboard.mixpanel.com
+grid.amap.com
+tm.amap.com
+mst[0-9]*.is.autonavi.com
+mt[0-9]*.google.cn
+abroad.apilocate.amap.com
+apilocate.amap.com
+restapi.amap.com
+yuntuapi.amap.com
+m5.amap.com
+wb.amap.com
+wb.amap.com
+wb.amap.com
+wb.amap.com
+apiinit.amap.com
+restapi.amap.com
+logs.amap.com
+cgicol.amap.com
+lbs.amap.com
+wap.amap.com
 
 # Amazon Fire (HD 8) Blocklist (V.1.0)
 #
